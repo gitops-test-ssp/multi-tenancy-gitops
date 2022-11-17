@@ -3,7 +3,7 @@ kind: Application
 metadata:
   name: sterling-secure-proxy-setup
   annotations:
-    argocd.argoproj.io/sync-wave: "270"
+    argocd.argoproj.io/sync-wave: "225"
   labels:
     gitops.tier.group: cntk
     gitops.tier.layer: services
